@@ -2,7 +2,7 @@
 Purpose
 The A* pathfinding algorithm is a widely used method for finding the shortest path in a graph, particularly in grid-based maps. It combines the advantages of Dijkstra's algorithm and Greedy Best-First Search by using a heuristic function to guide the search. This project implements the A\* algorithm to demonstrate its efficiency and versatility.
 
-#Features
+# Features
 1) Handles various grid sizes and obstacles.
 
 2) Provides visualization of the pathfinding process.
@@ -12,7 +12,7 @@ The A* pathfinding algorithm is a widely used method for finding the shortest pa
 # Setup Instructions
 
 Clone this repository:
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/kanaktagde/kanak_A-.git
 
 Navigate to the project directory:
 cd repository-name
