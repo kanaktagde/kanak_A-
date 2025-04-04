@@ -15,7 +15,7 @@ The A* pathfinding algorithm is a widely used method for finding the shortest pa
 git clone https://github.com/kanaktagde/kanak_A-.git
 
 2) Navigate to the project directory:
-cd repository-name
+cd kanak_A-
 
 3) Install required dependencies:
 pip install -r requirements.txt
