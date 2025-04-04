@@ -11,16 +11,16 @@ The A* pathfinding algorithm is a widely used method for finding the shortest pa
    
 # Setup Instructions
 
-Clone this repository:
+1) Clone this repository:
 git clone https://github.com/kanaktagde/kanak_A-.git
 
-Navigate to the project directory:
+2) Navigate to the project directory:
 cd repository-name
 
-Install required dependencies:
+3) Install required dependencies:
 pip install -r requirements.txt
 
-Run the program:
+4) Run the program:
 python main.py
 
 # Usage
